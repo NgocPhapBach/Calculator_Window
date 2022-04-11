@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\Calc_Phap\bin\Debug\Calc_Phap.exe.config
+C:\Users\ACER\source\repos\Calc_Phap\bin\Debug\Calc_Phap.exe
+C:\Users\ACER\source\repos\Calc_Phap\bin\Debug\Calc_Phap.pdb
+C:\Users\ACER\source\repos\Calc_Phap\obj\Debug\Calc_Phap.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Calc_Phap\obj\Debug\Calc_Phap.Form1.resources
+C:\Users\ACER\source\repos\Calc_Phap\obj\Debug\Calc_Phap.Properties.Resources.resources
+C:\Users\ACER\source\repos\Calc_Phap\obj\Debug\Calc_Phap.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Calc_Phap\obj\Debug\Calc_Phap.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Calc_Phap\obj\Debug\Calc_Phap.exe
+C:\Users\ACER\source\repos\Calc_Phap\obj\Debug\Calc_Phap.pdb
